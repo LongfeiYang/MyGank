@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FavorGank</string>
+    <string name="app_slogan">干货集中营</string>
+    <string name="splash_copyright">Copyright &#169; 2016 Gank All Rights Reserved\nPowered by Obsessive and Chris</string>
+    <string name="splash_version">V %1$s</string>
+</resources>
